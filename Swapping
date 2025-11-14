@@ -1,0 +1,7 @@
+x=int(input("enter the number:"))
+y=int(input("enter the number:"))
+temp=x
+x=y
+y=temp
+print("the value of x after swapping is",x)
+print("the value of y after swapping is",y)
